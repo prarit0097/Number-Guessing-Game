@@ -32,7 +32,7 @@ Clone repo
 
 Run python number_guesser.py
 
-Start guessing!
+Start guessing!!
 
 Perfect for classrooms, coding workshops, or as a starter project to learn Python fundamentals!
 
