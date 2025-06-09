@@ -41,7 +41,7 @@ Perfect for classrooms, coding workshops, or as a starter project to learn Pytho
 - Focuses on the core game mechanics without difficulty levels
 - Highlights the scoring system (100 - 10 per wrong guess)
 - Emphasizes the replayability feature
-- Mentions the visual elements (emojis) that make it engaging
+- Mentions the visual elements (emojis) that make it engaging 
 - Positions it as a learning tool for Python beginners
 - Includes clear setup instructions
 
